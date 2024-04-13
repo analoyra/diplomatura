@@ -1,0 +1,67 @@
+.contenedor{
+    width: 99%;
+}
+.cuerpo{
+    float: left;
+    position: relative;
+    font-style: italic;
+    width: 60%;
+    height: auto;
+    margin: 10px;
+}
+.lateral{
+    float:left; 
+    position: relative;
+    width: 30%;
+    height: auto;
+    background-color: darkgrey;
+    margin:20px;
+    box-shadow: 0 0 15px #130909;
+}
+.nombre{
+    height: 400;
+    width: auto;
+    font-size: 40px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: bisque;
+}    
+
+
+
+.titulos{
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ text-align: center;
+ font-weight: bold;
+ width: auto;
+ height: auto;
+ background-color: bisque;
+ border-radius: 10px;
+
+
+}
+.respuestas{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    width: auto;
+    height: 100%;
+    line-height: 25px;
+    margin: 10px;
+
+}
+#imagen{
+    border-radius: 100px;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    display: block;
+}
+
+
+.iconos{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bolder;
+    text-align: center;
+    
+}
