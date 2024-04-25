@@ -1,0 +1,30 @@
+#contenedor{
+    display: flex;
+    background-color:white;
+    border: 1px  solid;
+    width: 500px;
+    height: auto;
+    flex-flow: column;
+    /* justify-content: right; */
+    align-items: end;
+   
+    
+}
+#rojo{
+    background-color: red;
+    width: 100px;  
+    height: 100px; 
+    /* margin: auto;   */
+}
+#azul{
+    background-color: blue;
+    width: 100px;  
+    height: 100px; 
+    /* margin: auto;  */
+}
+#verde{
+    background-color: green;
+    width: 100px;  
+    height: 100px; 
+    /* margin: auto;  */
+}
